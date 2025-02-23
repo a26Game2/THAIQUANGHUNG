@@ -1,2 +1,1 @@
-# THAIQUANGHUNG
-Code Challenge
+# CodeChallenge
